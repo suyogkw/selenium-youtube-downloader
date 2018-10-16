@@ -1,5 +1,7 @@
 # selenium-youtube-downloader
 A selenium based python script to download youtube music files. using rg3/youtube-dl.
+thanks to rg3/youtube-dl.
+thanks to selenium python.
 
 There are two python scripts in the repository.
 
